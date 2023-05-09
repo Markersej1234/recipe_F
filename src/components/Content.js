@@ -26,3 +26,5 @@ const Content = ({ loggedIn,login,user,logout}) => {
 }
 
 export default Content
+
+//hej
